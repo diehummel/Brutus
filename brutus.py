@@ -89,7 +89,7 @@ def Plutus(): # Main Plutus Function
                    "WIF private key: " + str(toWIF(str(data[0]))) + "\n" +
                    "public key: " + str(data[1]).upper() + "\n" +
                    "balance: " + str(data[3]) + "\n")
-            file = open("plutus2.txt","a")
+            file = open("brutus.txt","a")
             file.write("address: " + str(data[2]) + "\n" +
                        "private key: " + str(data[0]) + "\n" +
                        "WIF private key: " + str(toWIF(str(data[0]))) + "\n" +
@@ -137,7 +137,7 @@ def process_balance(dataset,balance):
         privatekey = dataset[1]
         publickey = dataset[2]
         WIF = dataset[3]
-        file = open("plutus.txt","a")
+        file = open("brutus.txt","a")
         file.write("address: " + str(addr) + "\n" +
                    "private key: " + str(privatekey) + "\n" +
                    "WIF private key: " + str(WIF) + "\n" +
