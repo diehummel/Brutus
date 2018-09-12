@@ -1,6 +1,6 @@
 # Brutus Bitcoin Private Key Brute Forcer
 # Made by Isaac Delly Changed by Christian Hummel
-# https://github.com/Isaacdelly/Plutus
+# https://github.com/diehummel/Brutus
 # Donate Bitcoin: 12g88eRApxeSs4xiNFWMmvMEiWa36BMvSz
 # Donate Digibyte: DRirtCB5UN8mxAG1EL64vJPxJ6nTJJbrKj
 #
