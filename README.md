@@ -1,9 +1,12 @@
 # Brutus Bitcoin Private Key Brute Forcer
 Brutus Bitcoin Private Key Brute Forcer
 
-Brutus is a modified copy of Plutus 
+Brutus is a modified copy of Plutus
+
 Plutus Bitcoin Brute Forcer
+
 Made by Isaac Delly
+
 https://github.com/Isaacdelly/Plutus
 
 It is modified to generate random private keys until it fits to the given bitcoin wallet address.
