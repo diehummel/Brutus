@@ -25,3 +25,7 @@ It was more an idea to modify the original script to brute force for a specific 
 A little "play around".
 
 Have fun with it.
+
+Would be happy fpr a coffee cup donation.
+# Donate Bitcoin: 12g88eRApxeSs4xiNFWMmvMEiWa36BMvSz
+# Donate Digibyte: DRirtCB5UN8mxAG1EL64vJPxJ6nTJJbrKj
