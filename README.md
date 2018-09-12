@@ -1,5 +1,5 @@
-# Brutus
-Brutus Bitcoin Address Brute Forcer
+# Brutus Bitcoin Private Key Brute Forcer
+Brutus Bitcoin Private Key Brute Forcer
 
 Brutus is a modified copy of Plutus 
 Plutus Bitcoin Brute Forcer
