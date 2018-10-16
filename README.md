@@ -30,5 +30,5 @@ A little "play around".
 Have fun with it.
 
 Would be happy fpr a coffee cup donation.
-# Donate Bitcoin: 12g88eRApxeSs4xiNFWMmvMEiWa36BMvSz
-# Donate Digibyte: DRirtCB5UN8mxAG1EL64vJPxJ6nTJJbrKj
+ Donate Bitcoin: 1KH1UW9N6J8NqUpddqMsvinbLsZrRf8yLH
+ Donate Digibyte: DFPm29NrC83LjdCYKwpu4j3zg9tQdPp1ek
