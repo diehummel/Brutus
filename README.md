@@ -31,6 +31,6 @@ Have fun with it.
 
 Would be happy fpr a coffee cup donation.
 
-Donate Bitcoin: 1KH1UW9N6J8NqUpddqMsvinbLsZrRf8yLH
+Donate Bitcoin: 18caPgfTVEGgDMAaiJ6A7U9t9RnH1Yez38
  
 Donate Digibyte: DFPm29NrC83LjdCYKwpu4j3zg9tQdPp1ek
